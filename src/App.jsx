@@ -17,7 +17,7 @@ function App(){
 {
       id : 2,
       titulo :"Resultado Sisu",
-      imagem:"https://picsum.photos/200/200?random",
+      imagem:"https://picsum.photos/200/200?random = 2",
       conteudo:"Mec e inep libream resultados enem"
 }
 

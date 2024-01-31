@@ -5,7 +5,7 @@ import { FaHeart, FaRegHeart, FaTrash  } from 'react-icons/fa'
 
 function Post({id, titulo, imagem, conteudo, onDelete}){
     const [isLiked, setIsLiked] = useState(false)
-    const [likes, setLikes] = useState(77)
+    const [likes, setLikes] = useState(81)
     const [urlImage, setUrlImage] = useState(imagem)
 
     function apagar(){
